@@ -1,0 +1,556 @@
+<StudyFieldsResponse>
+  <APIVrs>1.01.05</APIVrs>
+  <DataVrs>2023:12:13 00:00:21.569</DataVrs>
+  <Expression>heart attack</Expression>
+  <NStudiesAvail>475971</NStudiesAvail>
+  <NStudiesFound>10244</NStudiesFound>
+  <MinRank>2</MinRank>
+  <MaxRank>21</MaxRank>
+  <NStudiesReturned>20</NStudiesReturned>
+  <FieldList>
+    <Field>NCTId</Field>
+    <Field>BriefTitle</Field>
+    <Field>Condition</Field>
+    <Field>EligibilityCriteria</Field>
+  </FieldList>
+  <StudyFieldsList>
+    <StudyFields Rank="2">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01874691</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>China Acute Myocardial Infarction Registry</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Eligible patients must be admitted within 7 days of acute ischemic symptoms and diagnosed acute ST-elevation or non ST-elevation myocardial infarction. Diagnosis criteria must meet Universal Definition for AMI (2012). All participating hospitals are required to enroll consecutive patients with AMI.
+
+Exclusion Criteria:
+
+Myocardial infarction related to percutaneous coronary intervention and coronary artery bypass grafting.</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="3">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT03015064</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Post-Myocardial Infarction Patients in Santa Catarina, Brazil - Catarina Heart Study</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Age over 18 years;
+Presence of precordial pain suggestive of acute myocardial infarction associated with electrocardiogram with new ST segment elevation in two contiguous leads with limits: ≥0.1 mv in all leads other than leads V2-V3 where the following limits apply : ≥0.2 mv in Men ≥40 years; ≥0.25 mV in men &lt;40 years, or ≥ 0.15 mV in women or presence of precordial pain suggestive of acute myocardial infarction associated with elevation of troponin I or CK-MB above the 99th percentile of the upper reference limit
+
+Exclusion Criteria:
+
+Previous acute myocardial infarction;
+Disagreement with the Terms of Informed Consent.</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="4">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01168609</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Left Atrial Distensibility and Left Ventricular Filling Pressure in Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Myocardial infarction was detected by the presence of at least two of the following criteria: chest pain lasting more than 30 minutes, typical electrocardiographic changes, and elevated creatinine kinase-MB fraction. Consecutive patients 18 years of age or older who presented within 12 hours after the onset of acute myocardial infarction were considered for enrollment.
+
+Exclusion Criteria:
+
+1) presence of mitral stenosis or prosthetic mitral valves
+2) more than mild severity of aortic/mitral valvular problem
+3) any abnormality of atrial septum (e.g., atrial septal defect or aneurysm)
+4) rhythm other than sinus rhythm
+5) inadequate image quality
+6) lack of informed consent</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="5">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT06038994</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Prognostic Value of Surem TRAF3IP2 Level in Patients With Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction, Acute</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Patients with acute myocardial infarction
+patients received coronary angiography
+invasive management within 72 h of hospital admission
+
+Exclusion Criteria:
+
+NYHA III-IV
+malignant tumor
+acute infection
+thyroid dysfunction
+Life expectancy of b1 y
+Unsuitable for PCI</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="6">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT03412435</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Asan Medical Center Myocardial Infarction Registry</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction, Acute</FieldValue>
+        <FieldValue>Coronary Stenosis</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+All consecutive acute myocardial infarction patients diagnosed through coronary angiography</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="7">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT04628104</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>CMR Findings in COVID-19 Patients Presenting With Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Patients presenting with symptoms and ECG indicative of acute MI (both STEMI &amp; NSTEMI) AND confirmed COVID-19.
+Patients admitted with acute MI (both STEMI &amp; NSTEMI) who develop COVID-19 symptoms during hospital admission &amp; are confirmed by RT-PCR to have COVID-19
+
+Exclusion Criteria:
+
+History of previous diagnosis of STEMI or myocarditis.
+History of previous PCI in infarcted related artery or NSTEMI
+Severe respiratory distress that precludes lying supine in the CMR scanner.
+Acute kidney injury with rapidly declining GFR or GFR that is persistently below 30 ml/min/1.73 m2 (contraindication for Gadopentetate dimeglumine contrast).</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="8">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT00632788</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>The Influence of Acute Myocardial Infarction Checklist on the Door-to-Balloon Time</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+all patients who presented to the emergency department of Far Eastern Memorial Hospital within 12 hours of the onset of ischemic chest pain
+patients with diagnostic criteria of acute ST-elevation myocardial infarction on electrocardiogram, e.g. at least 0.1 mV in two or more contiguous electrocardiographic leads or a new onset of bundle branch block
+patients were preparing for emergency cardiac catheterization
+
+Exclusion Criteria:
+
+patients who did not fulfill the diagnostic criteria of acute myocardial infarction on electrocardiogram
+patients who were not eligible for cardiac catheterization
+patients who refused cardiac catheterization
+patients who suffered from acute myocardial infarction after admission to ward or intensive care unit for any reason
+patients who had an ambiguous diagnosis that the decision of emergency cardiac catheterization was made after admission to ward or intensive care unit</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="9">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01484158</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Gait Speed for Predicting Cardiovascular Events After Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Clinical diagnosis of ST-segment elevation acute myocardial infarction
+Must be treated within 12 hours after symptom onset
+Must be able to walk
+Must receive successful primary percutaneous coronary intervention
+
+Exclusion Criteria:
+
+History of prior myocardial infarction
+Cerebrovascular disease with residual hemiplegia
+Severe peripheral arterial disease</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="10">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT00888537</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Wiser Choices in Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Between the ages of 18 and 90
+Hospitalized at Saint Marys Hospital
+A primary diagnosis of AMI,
+Have heart rate, blood pressure, troponin and creatinine measurements,
+There is an intention to offer treatment medications
+Are able and willing to provide informed consent
+
+Exclusion Criteria:
+
+Have not had a myocardial infarction
+Have significant cognitive, visual impairment,
+Non-English speaker
+Have a Do Not Intubate/Do Not Resuscitate (DNI/DNR) status
+Will be discharged to a nursing home
+AMI is not the presumptive diagnosis</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="11">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT05090618</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>The Role of Genetic Factors in the Development of Myocardial Infarction in the Kazakh Population</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Heart Attack</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Persons of Kazakh nationality
+Age up to 59 years inclusive at the time of primary myocardial infarction
+Myocardial infarction was established in accordance with the EOC criteria: An increase and / or decrease in the level of cardiac troponin must be combined with at least one of the following: • Symptoms of myocardial ischemia • Newly occurring ischemic changes on the ECG • The appearance of a pathological Q wave • Identification according to imaging data methods of new areas of non-viable myocardium, or new areas of local contractility disorders of presumably ischemic etiology • Detection of a thrombus in the coronary arteries according to coronary angiography
+Presence of coronary angiography
+Persons able and willing to provide written informed consent;
+
+Exclusion Criteria:
+
+Age at primary myocardial infarction 60 years and older
+Heart defects, congenital and acquired
+Non-ischemic cardiomyopathies
+Autoimmune diseases
+Diabetes mellitus at the time of development of primary myocardial infarction
+Terminal stages of renal and hepatic failure</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="12">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01109225</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Relation Between Aldosterone and Cardiac Remodeling After Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Man or woman hospitalized for a first myocardial infarction with known shift of the segment ST revascularized in acute phase by primary angioplasty and dated less than 4 days
+Patient presenting a stable clinical state
+Patient presenting a regular sinusal cardiac rhythm
+Patient having an age ≥ 18 years
+
+Exclusion Criteria:
+
+Counter-indication with examination MRI
+Severe claustrophobia
+Antecedent of over-sensitiveness to gadolinium salts
+Nonischaemic Cardiopathy
+Cardiac surgery planed in the 6 months
+Women into old to procreate without effective contraception</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="13">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT02913820</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Association of Snowfall and Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+myocardial infarction being confirmed or treated in the cathlab
+
+Exclusion Criteria:
+
+none</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="14">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT03022552</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Heart Attack Research Program: Platelet Sub-Study (HARP)</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Acute ischemic symptoms compatible with diagnosis of MI, such as chest pain or anginal equivalent symptoms at rest or new onset exertional anginal equivalent symptoms
+
+Objective evidence of MI (either or both of the following):
+
+Elevation of troponin to above the laboratory upper limit of normal (ULN)
+ST segment elevation of ≥1mm on 2 contiguous ECG leads
+Willing to provide informed consent and comply with all aspects of the protocol
+Administration of aspirin at least 1 hour before cardiac catheterization
+Administration of thienopyridine (e.g., clopidogrel, ticagrelor) at least 1 hour before cardiac catheterization
+Women and men with ≥50% of any major epicardial vessel on invasive angiography may participate
+
+Exclusion Criteria:
+
+Recent use of vasospastic agents, such as cocaine, triptans, or ergot alkaloids (≤1 month)
+Alternate explanation for troponin elevation, such as hypertensive urgency, acute exacerbation of heart failure, chronic elevation due to kidney disease, pulmonary embolism, cardiac trauma
+Pregnancy
+Thrombolytic therapy for STEMI (qualifying event)
+Use of any of the following medications:
+Platelet antagonists (except aspirin and thienopyridines) within 7 days
+NSAIDs (e.g., ibuprofen, naproxen) within 3 days.
+Thrombocytopenia (platelet count &lt;100,000)
+Thrombocytosis (platelet count &gt;500,000)
+Anemia (hemoglobin &lt;9 mg/dl)
+Hemorrhagic diathesis</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="15">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT02072850</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Detection and Significance of Heart Injury in ST Elevation Myocardial Infarction.</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute ST-elevation Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Acute STEMI
+
+Exclusion Criteria:
+
+Major systemic illness (e.g. cancer limiting survival &lt; 6 months);
+Metallic implant (e.g. cochlear implant);
+Metallic foreign body
+Pregnancy.</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="16">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT00597922</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Examining Heart Attacks in Young Women</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Elevated cardiac markers within 24 hours of arrival at initial or enrolling institution
+Supporting evidence suggestive of a heart attack
+
+Exclusion Criteria:
+
+Previously enrolled in the VIRGO study
+Does not speak English or Spanish
+Too ill to interview
+Current prisoner</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="17">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01182064</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Acute Myocardial Infarction by Penetrating Cardiac Trauma</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Heart stab Injury
+
+Exclusion Criteria:
+
+Previous cardiac injuries, coronary artery disease with previous diagnostic, previous coronary angiography (for any indication)</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="18">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT04957719</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Selatogrel Outcome Study in Suspected Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Main Inclusion Criteria:
+
+Confirmed diagnosis of symptomatic type 1 acute myocardial infarction (AMI) ST-Elevation Myocardial Infarction (STEMI) or Non-ST-Elevation Myocardial Infarction (NSTEMI), no longer than 4 weeks prior to randomization.
+
+Diagnosis of multivessel coronary artery disease defined as ≥ 50% stenosis on 2 or more coronary artery territories or on the left main artery during a prior cardiac catheterization or cardiac catheterization during the qualifying AMI event and presence of at least 2 of the following risk factors:
+
+Second prior AMI,
+Diabetes mellitus defined by ongoing glucose lowering treatment,
+Chronic kidney disease with estimated glomerular filtration rate less-than 60 mL/min/1.73 m2,
+Peripheral artery disease at any time prior to randomization,
+Absence of, or unsuccessful coronary revascularization of the qualifying AMI.
+Successful self-administered placebo according to the autoinjector instruction for use training during screening.
+
+Main Exclusion Criteria:
+
+Increased risk of serious bleeding including any of the following:
+
+History of intracranial bleed at any time.
+Known uncorrected intracranial vascular abnormality.
+Gastrointestinal bleed requiring hospitalization or transfusion within 1 year prior to screening.
+Already on oral triple antithrombotic therapy (i.e., Dual antiplatelet therapy and oral anticoagulant).
+Known liver impairment significantly affecting the hepatic function.
+Current dialysis.
+Ischemic stroke or transient ischemic attack within 3 months of screening.
+Chronic anemia with hemoglobin &lt; 10 g/dL.
+Chronic thrombocytopenia with platelet count &lt; 100,000/mm3.
+Known hypersensitivity to selatogrel, any of its excipients, or drugs of the P2Y12 class.
+Previous exposure to an investigational drug within 3 months prior to randomization.
+Participation in another clinical trial with an investigational product or device within 3 months prior to randomization.</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="19">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT04050163</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>MiSaver® Stem Cell Treatment for Heart Attack (Acute Myocardial Infarction)</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Patients aged 20~80
+Acute Myocardial Infarction 1 to 10 days
+Cardiac enzyme CK-MB or Troponin &gt; 2X of high-end normal value
+ST-elevation on EKG (STEMI)
+Presence of regional wall motion abnormality
+Left ventricular ejection fraction (LVEF) of ≤40%
+Hemodynamically stable past 24 hour
+Participants with adequate pulmonary function
+Peripheral artery oxygen saturation ≥97%
+Karnofsky performance status scores of ≥60.
+
+Exclusion Criteria:
+
+Age &lt;20 or &gt;80
+Pregnant or breast feeding
+Positive adventitious infections (such as HIV, hepatitis )
+Revascularization via coronary artery bypass surgery is required
+Coronary revascularization procedures is anticipated during the 6-month study period
+Severe aortic or mitral valve narrowing
+Evidence of life-threatening arrhythmia on baseline electrocardiogram (ECG)
+Short of breath unable to receive PCI examination or treatment
+Malignant tumor
+Hematopoietic dysplasia
+Severe organ disease
+With less than 1 year of life expectancy
+Chronic kidney disease with CCr&lt;20ml/min
+Kidney disease on renal dialysis</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="20">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01150825</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Feasibility of High Frequency QRS Analysis in Patients With Acute Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Myocardial Infarction</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Age &gt; 40 years (men and women)
+Time from onset of chest pain ≤ 12h
+AMI confirmed by biomarkers
+Clinical or electrocardiographic evidence of ischemia during recording
+Signed an informed consent
+
+Exclusion Criteria:
+
+Prior MI
+Prior CABG
+pre-excitation syndrome (e.g. WP)
+Atrial Fibrillation or significant ventricular arrhythmia
+BBB, intraventricular conduction delay or QRS duration &gt; 120 ms
+Implanted pacemaker or defibrillator
+Left-ventricular hypertrophy</FieldValue>
+      </FieldValues>
+    </StudyFields>
+    <StudyFields Rank="21">
+      <FieldValues Field="NCTId">
+        <FieldValue>NCT01936675</FieldValue>
+      </FieldValues>
+      <FieldValues Field="BriefTitle">
+        <FieldValue>Myocardial Infarction Genes (MI-GENES) Study</FieldValue>
+      </FieldValues>
+      <FieldValues Field="Condition">
+        <FieldValue>Coronary Artery Disease</FieldValue>
+        <FieldValue>Myocardial Infarction</FieldValue>
+        <FieldValue>Genomic Risk Communication</FieldValue>
+      </FieldValues>
+      <FieldValues Field="EligibilityCriteria">
+        <FieldValue>Inclusion Criteria:
+
+Patients between the ages of 45-70 years
+Patients who have participated in the Mayo Clinic Biobank or a previous research study at Mayo Clinic
+Patients who live in Southeast Minnesota
+
+Exclusion Criteria:
+
+Taking statin or other lipid lowering medications
+Patients with a history of myocardial infarction, coronary artery disease, or other atherosclerotic medical conditions</FieldValue>
+      </FieldValues>
+    </StudyFields>
+  </StudyFieldsList>
+</StudyFieldsResponse>
